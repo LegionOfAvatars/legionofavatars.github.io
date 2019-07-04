@@ -1,2 +1,2 @@
-# legionofavatars.github.io
-my website
+# Welcome to the Legion Portal
+
